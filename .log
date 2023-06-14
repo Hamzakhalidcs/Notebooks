@@ -1,0 +1,870 @@
+2023-06-06 10:00:51,536 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:00:59,012 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:01:31,844 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:01:44,984 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:05:24,579 [10632] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-06 10:05:24,580 [10632] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-06 10:05:24,580 [10632] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-06 10:05:24,584 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-06 10:05:24,585 [10632] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-06 10:05:24,587 [10632] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-06 10:05:25,093 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:05:25,094 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:05:25,095 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-06 10:05:25,097 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-06 10:05:25,098 [10632] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-06 10:18:18,526 [1200] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-06 10:18:18,527 [1200] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-06 10:18:18,527 [1200] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-06 10:18:18,533 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-06 10:18:18,535 [1200] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-06 10:18:18,536 [1200] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-06 10:18:19,040 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:18:19,041 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:18:19,042 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-06 10:18:19,043 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-06 10:18:19,044 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-06 10:52:43,859 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:52:43,861 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-06 10:52:43,863 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-06 10:52:43,865 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-06 10:52:43,866 [1200] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-06 10:53:49,606 [19044] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-06 10:53:49,607 [19044] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-06 10:53:49,607 [19044] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-06 10:53:49,614 [19044] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-06 10:53:49,616 [19044] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-06 10:53:49,616 [19044] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-06 10:53:50,369 [19044] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-06 10:53:50,369 [19044] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-06 10:53:50,371 [19044] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-06 10:53:50,373 [19044] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-06 10:53:50,375 [19044] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-06 10:53:50,375 [19044] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-06 10:53:52,195 [19044] DEBUG    matplotlib:224: [JupyterRequire] matplotlib data path: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\matplotlib\mpl-data
+2023-06-06 10:53:52,224 [19044] DEBUG    matplotlib:224: [JupyterRequire] CONFIGDIR=C:\Users\pc\.matplotlib
+2023-06-06 10:53:52,228 [19044] DEBUG    matplotlib:1394: [JupyterRequire] matplotlib version 3.4.3
+2023-06-06 10:53:52,228 [19044] DEBUG    matplotlib:1395: [JupyterRequire] interactive is False
+2023-06-06 10:53:52,228 [19044] DEBUG    matplotlib:1396: [JupyterRequire] platform is win32
+2023-06-06 10:53:52,228 [19044] DEBUG    matplotlib:1397: [JupyterRequire] loaded modules: ['sys', 'builtins', '_frozen_importlib', '_imp', '_thread', '_warnings', '_weakref', 'zipimport', '_frozen_importlib_external', '_io', 'marshal', 'nt', 'winreg', 'encodings', 'codecs', '_codecs', 'encodings.aliases', 'encodings.utf_8', '_signal', '__main__', 'encodings.latin_1', 'io', 'abc', '_abc', '_bootlocale', '_locale', 'encodings.cp1252', 'site', 'os', 'stat', '_stat', '_collections_abc', 'ntpath', 'genericpath', 'os.path', '_sitebuiltins', 'types', 'importlib', 'importlib._bootstrap', 'importlib._bootstrap_external', 'warnings', 'importlib.util', 'importlib.abc', 'importlib.machinery', 'contextlib', 'collections', 'operator', '_operator', 'keyword', 'heapq', '_heapq', 'itertools', 'reprlib', '_collections', 'functools', '_functools', 'mpl_toolkits', 'pywin32_bootstrap', 'ruamel', 'runpy', 'pkgutil', 'weakref', '_weakrefset', 'ipykernel', 'ipykernel._version', 'ipykernel.connect', 'json', 'json.decoder', 're', 'enum', 'sre_compile', '_sre', 'sre_parse', 'sre_constants', 'copyreg', 'json.scanner', '_json', 'json.encoder', 'subprocess', 'time', 'signal', 'errno', 'threading', 'traceback', 'linecache', 'tokenize', 'token', 'msvcrt', '_winapi', 'IPython', 'IPython.core', 'IPython.core.getipython', 'IPython.core.release', 'IPython.core.application', 'atexit', 'copy', 'glob', 'fnmatch', 'posixpath', 'logging', 'collections.abc', 'string', '_string', 'shutil', 'zlib', 'bz2', '_compression', '_bz2', 'lzma', '_lzma', 'traitlets', 'traitlets.traitlets', 'ast', '_ast', 'inspect', 'dis', 'opcode', '_opcode', 'traitlets.utils', 'traitlets.utils.getargspec', 'traitlets.utils.importstring', 'traitlets.utils.sentinel', 'traitlets.utils.bunch', 'traitlets.utils.descriptions', 'traitlets.utils.decorators', 'traitlets._version', 'traitlets.config', 'traitlets.config.application', 'pprint', 'traitlets.config.configurable', 'traitlets.config.loader', 'argparse', 'gettext', 'locale', 'ipython_genutils', 'ipython_genutils._version', 'ipython_genutils.path', 'random', 'math', 'hashlib', '_hashlib', '_blake2', '_sha3', 'bisect', '_bisect', '_random', 'ipython_genutils.py3compat', 'ipython_genutils.encoding', 'platform', 'ipython_genutils.text', 'textwrap', 'IPython.core.crashhandler', 'IPython.core.ultratb', 'pydoc', 'sysconfig', 'urllib', 'urllib.parse', 'IPython.core.debugger', 'bdb', 'IPython.utils', 'IPython.utils.PyColorize', 'IPython.utils.coloransi', 'IPython.utils.ipstruct', 'IPython.utils.colorable', 'pygments', 'IPython.utils.py3compat', 'IPython.utils.encoding', 'IPython.core.excolors', 'IPython.testing', 'IPython.testing.skipdoctest', 'pdb', 'cmd', 'code', 'codeop', '__future__', 'IPython.core.display_trap', 'IPython.utils.path', 'IPython.utils.process', 'IPython.utils._process_win32', 'ctypes', '_ctypes', 'struct', '_struct', 'ctypes._endian', 'ctypes.wintypes', 'IPython.utils._process_common', 'shlex', 'IPython.utils.decorators', 'IPython.utils.data', 'IPython.utils.terminal', 'IPython.utils.sysinfo', 'IPython.utils._sysinfo', 'IPython.core.profiledir', 'IPython.paths', 'tempfile', 'IPython.utils.importstring', 'IPython.terminal', 'IPython.terminal.embed', 'IPython.core.compilerop', 'IPython.core.magic_arguments', 'IPython.core.error', 'IPython.utils.text', 'pathlib', 'IPython.core.magic', 'getopt', 'IPython.core.oinspect', 'typing', 'typing.io', 'typing.re', 'IPython.core.page', 'IPython.core.display', 'binascii', 'mimetypes', 'IPython.lib', 'IPython.lib.security', 'getpass', 'IPython.lib.pretty', 'datetime', '_datetime', 'IPython.utils.openpy', 'IPython.utils.dir2', 'IPython.utils.wildcard', 'pygments.lexers', 'pygments.lexers._mapping', 'pygments.modeline', 'pygments.plugin', 'pygments.util', 'pygments.lexers.python', 'pygments.lexer', 'pygments.filter', 'pygments.filters', 'pygments.token', 'pygments.regexopt', 'pygments.unistring', 'pygments.formatters', 'pygments.formatters._mapping', 'pygments.formatters.html', 'pygments.formatter', 'pygments.styles', 'IPython.core.inputtransformer2', 'decorator', 'IPython.core.interactiveshell', 'pickleshare', 'pickle', '_compat_pickle', '_pickle', 'IPython.core.prefilter', 'IPython.core.autocall', 'IPython.core.macro', 'IPython.core.splitinput', 'IPython.core.alias', 'IPython.core.builtin_trap', 'IPython.core.events', 'backcall', 'backcall.backcall', 'IPython.core.displayhook', 'IPython.core.displaypub', 'IPython.core.extensions', 'IPython.core.formatters', 'IPython.utils.sentinel', 'IPython.core.history', 'sqlite3', 'sqlite3.dbapi2', '_sqlite3', 'IPython.core.logger', 'IPython.core.payload', 'IPython.core.usage', 'IPython.display', 'IPython.lib.display', 'html', 'html.entities', 'IPython.utils.io', 'IPython.utils.capture', 'IPython.utils.strdispatch', 'IPython.core.hooks', 'IPython.utils.syspathcontext', 'IPython.utils.tempdir', 'IPython.utils.contexts', 'IPython.core.async_helpers', 'IPython.terminal.interactiveshell', 'asyncio', 'asyncio.base_events', 'concurrent', 'concurrent.futures', 'concurrent.futures._base', 'socket', '_socket', 'selectors', 'select', 'ssl', '_ssl', 'base64', 'asyncio.constants', 'asyncio.coroutines', 'asyncio.base_futures', 'asyncio.format_helpers', 'asyncio.log', 'asyncio.events', 'contextvars', '_contextvars', 'asyncio.base_tasks', '_asyncio', 'asyncio.futures', 'asyncio.protocols', 'asyncio.sslproto', 'asyncio.transports', 'asyncio.tasks', 'asyncio.locks', 'asyncio.runners', 'asyncio.queues', 'asyncio.streams', 'asyncio.subprocess', 'asyncio.windows_events', '_overlapped', 'asyncio.base_subprocess', 'asyncio.proactor_events', 'asyncio.selector_events', 'asyncio.windows_utils', 'prompt_toolkit', 'prompt_toolkit.application', 'prompt_toolkit.application.application', 'prompt_toolkit.buffer', 'prompt_toolkit.application.current', 'prompt_toolkit.application.run_in_terminal', 'prompt_toolkit.eventloop', 'prompt_toolkit.eventloop.async_generator', 'prompt_toolkit.eventloop.utils', 'prompt_toolkit.eventloop.inputhook', 'prompt_toolkit.utils', 'wcwidth', 'wcwidth.wcwidth', 'wcwidth.table_wide', 'wcwidth.table_zero', 'wcwidth.unicode_versions', 'prompt_toolkit.auto_suggest', 'prompt_toolkit.document', 'prompt_toolkit.clipboard', 'prompt_toolkit.clipboard.base', 'prompt_toolkit.selection', 'prompt_toolkit.clipboard.in_memory', 'prompt_toolkit.filters', 'prompt_toolkit.filters.app', 'prompt_toolkit.cache', 'prompt_toolkit.enums', 'prompt_toolkit.filters.base', 'prompt_toolkit.filters.cli', 'prompt_toolkit.filters.utils', 'prompt_toolkit.completion', 'prompt_toolkit.completion.base', 'prompt_toolkit.formatted_text', 'prompt_toolkit.formatted_text.ansi', 'prompt_toolkit.output', 'prompt_toolkit.output.base', 'prompt_toolkit.data_structures', 'prompt_toolkit.styles', 'prompt_toolkit.styles.base', 'prompt_toolkit.styles.defaults', 'prompt_toolkit.styles.named_colors', 'prompt_toolkit.styles.style', 'prompt_toolkit.styles.pygments', 'prompt_toolkit.styles.style_transformation', 'colorsys', 'prompt_toolkit.output.color_depth', 'prompt_toolkit.output.defaults', 'prompt_toolkit.output.vt100', 'array', 'prompt_toolkit.formatted_text.base', 'prompt_toolkit.mouse_events', 'prompt_toolkit.formatted_text.html', 'xml', 'xml.dom', 'xml.dom.domreg', 'xml.dom.minidom', 'xml.dom.minicompat', 'xml.dom.xmlbuilder', 'xml.dom.NodeFilter', 'prompt_toolkit.formatted_text.pygments', 'prompt_toolkit.formatted_text.utils', 'prompt_toolkit.completion.deduplicate', 'prompt_toolkit.completion.filesystem', 'prompt_toolkit.completion.fuzzy_completer', 'prompt_toolkit.completion.word_completer', 'prompt_toolkit.completion.nested', 'prompt_toolkit.history', 'prompt_toolkit.search', 'prompt_toolkit.key_binding', 'prompt_toolkit.key_binding.key_bindings', 'prompt_toolkit.keys', 'prompt_toolkit.key_binding.key_processor', 'prompt_toolkit.key_binding.vi_state', 'prompt_toolkit.validation', 'prompt_toolkit.input', 'prompt_toolkit.input.base', 'prompt_toolkit.input.defaults', 'prompt_toolkit.input.typeahead', 'prompt_toolkit.key_binding.bindings', 'prompt_toolkit.key_binding.bindings.page_navigation', 'prompt_toolkit.key_binding.bindings.scroll', 'prompt_toolkit.key_binding.defaults', 'prompt_toolkit.key_binding.bindings.basic', 'prompt_toolkit.key_binding.bindings.named_commands', 'prompt_toolkit.layout', 'prompt_toolkit.layout.containers', 'prompt_toolkit.layout.controls', 'prompt_toolkit.lexers', 'prompt_toolkit.lexers.base', 'prompt_toolkit.lexers.pygments', 'prompt_toolkit.layout.processors', 'prompt_toolkit.layout.utils', 'prompt_toolkit.layout.dimension', 'prompt_toolkit.layout.margins', 'prompt_toolkit.layout.mouse_handlers', 'prompt_toolkit.layout.screen', 'prompt_toolkit.layout.layout', 'prompt_toolkit.layout.menus', 'prompt_toolkit.layout.scrollable_pane', 'prompt_toolkit.key_binding.bindings.completion', 'prompt_toolkit.key_binding.bindings.cpr', 'prompt_toolkit.key_binding.bindings.emacs', 'prompt_toolkit.key_binding.bindings.mouse', 'prompt_toolkit.key_binding.bindings.vi', 'prompt_toolkit.input.vt100_parser', 'prompt_toolkit.input.ansi_escape_sequences', 'prompt_toolkit.key_binding.digraphs', 'prompt_toolkit.key_binding.emacs_state', 'prompt_toolkit.layout.dummy', 'prompt_toolkit.renderer', 'prompt_toolkit.application.dummy', 'prompt_toolkit.shortcuts', 'prompt_toolkit.shortcuts.dialogs', 'prompt_toolkit.key_binding.bindings.focus', 'prompt_toolkit.widgets', 'prompt_toolkit.widgets.base', 'prompt_toolkit.widgets.toolbars', 'prompt_toolkit.widgets.dialogs', 'prompt_toolkit.widgets.menus', 'prompt_toolkit.shortcuts.progress_bar', 'prompt_toolkit.shortcuts.progress_bar.base', 'prompt_toolkit.shortcuts.progress_bar.formatters', 'prompt_toolkit.shortcuts.prompt', 'prompt_toolkit.key_binding.bindings.auto_suggest', 'prompt_toolkit.key_binding.bindings.open_in_editor', 'prompt_toolkit.shortcuts.utils', 'prompt_toolkit.patch_stdout', 'queue', '_queue', 'pygments.style', 'IPython.terminal.debugger', 'IPython.core.completer', 'unicodedata', 'IPython.core.latex_symbols', 'IPython.utils.generics', 'jedi', 'jedi.api', 'parso', 'parso.parser', 'parso.tree', 'parso.utils', 'parso.pgen2', 'parso.pgen2.generator', 'parso.pgen2.grammar_parser', 'parso.python', 'parso.python.tokenize', 'parso.python.token', 'parso.grammar', 'parso._compatibility', 'parso.python.diff', 'difflib', 'parso.python.parser', 'parso.python.tree', 'parso.python.prefix', 'parso.cache', 'gc', 'parso.python.errors', 'parso.normalizer', 'parso.python.pep8', 'parso.file_io', 'jedi._compatibility', 'jedi.parser_utils', 'jedi.debug', 'jedi.settings', 'jedi.cache', 'jedi.file_io', 'jedi.api.classes', 'jedi.inference', 'jedi.inference.imports', 'jedi.inference.sys_path', 'jedi.inference.cache', 'jedi.inference.base_value', 'jedi.inference.helpers', 'jedi.inference.utils', 'jedi.inference.compiled', 'jedi.inference.compiled.value', 'jedi.inference.filters', 'jedi.inference.flow_analysis', 'jedi.inference.recursion', 'jedi.inference.names', 'jedi.inference.docstrings', 'jedi.common', 'jedi.inference.lazy_value', 'jedi.plugins', 'jedi.inference.compiled.access', 'jedi.inference.compiled.getattr_static', 'jedi.inference.signature', 'jedi.inference.context', 'jedi.inference.analysis', 'jedi.inference.gradual', 'jedi.inference.gradual.typeshed', 'jedi.inference.gradual.stub_value', 'jedi.inference.value', 'jedi.inference.value.module', 'jedi.inference.value.klass', 'jedi.inference.arguments', 'jedi.inference.value.iterable', 'jedi.inference.value.dynamic_arrays', 'jedi.inference.value.function', 'jedi.inference.parser_cache', 'jedi.inference.gradual.generics', 'jedi.inference.value.instance', 'jedi.inference.gradual.typing', 'jedi.inference.gradual.base', 'jedi.inference.gradual.type_var', 'jedi.inference.compiled.subprocess', 'jedi.inference.compiled.subprocess.functions', 'jedi.api.exceptions', 'jedi.inference.syntax_tree', 'jedi.inference.gradual.annotation', 'jedi.inference.param', 'jedi.inference.value.decorator', 'jedi.inference.compiled.mixed', 'jedi.inference.gradual.conversion', 'jedi.api.keywords', 'pydoc_data', 'pydoc_data.topics', 'jedi.api.completion_cache', 'jedi.api.helpers', 'jedi.api.interpreter', 'jedi.api.completion', 'jedi.api.strings', 'jedi.api.file_name', 'jedi.api.environment', 'filecmp', 'jedi.api.project', 'jedi.inference.references', 'jedi.api.errors', 'jedi.api.refactoring', 'jedi.api.refactoring.extract', 'jedi.inference.gradual.utils', 'jedi.plugins.registry', 'jedi.plugins.stdlib', 'jedi.plugins.flask', 'jedi.plugins.pytest', 'jedi.plugins.django', 'IPython.terminal.ptutils', 'IPython.terminal.shortcuts', 'IPython.lib.clipboard', 'IPython.terminal.magics', 'IPython.terminal.pt_inputhooks', 'IPython.terminal.prompts', 'IPython.terminal.ipapp', 'IPython.core.magics', 'IPython.core.magics.auto', 'IPython.core.magics.basic', 'IPython.core.magics.code', 'urllib.request', 'email', 'http', 'http.client', 'email.parser', 'email.feedparser', 'email.errors', 'email._policybase', 'email.header', 'email.quoprimime', 'email.base64mime', 'email.charset', 'email.encoders', 'quopri', 'email.utils', 'email._parseaddr', 'calendar', 'email.message', 'uu', 'email._encoded_words', 'email.iterators', 'urllib.error', 'urllib.response', 'nturl2path', 'IPython.core.magics.config', 'IPython.core.magics.display', 'IPython.core.magics.execution', 'timeit', 'cProfile', '_lsprof', 'profile', 'pstats', 'IPython.utils.module_paths', 'IPython.utils.timing', 'IPython.core.magics.extension', 'IPython.core.magics.history', 'IPython.core.magics.logging', 'IPython.core.magics.namespace', 'IPython.core.magics.osm', 'IPython.core.magics.packaging', 'IPython.core.magics.pylab', 'IPython.core.pylabtools', 'IPython.core.magics.script', 'IPython.lib.backgroundjobs', 'IPython.core.shellapp', 'IPython.extensions', 'IPython.extensions.storemagic', 'IPython.utils.frame', 'jupyter_client', 'jupyter_client._version', 'jupyter_client.connect', 'zmq', 'zmq.backend', 'zmq.backend.select', 'zmq.backend.cython', 'zmq.backend.cython.constants', 'cython_runtime', 'zmq.backend.cython.error', '_cython_0_29_21', 'zmq.backend.cython.message', 'zmq.error', 'zmq.backend.cython.context', 'zmq.backend.cython.socket', 'zmq.backend.cython.utils', 'zmq.backend.cython._poll', 'zmq.backend.cython._version', 'zmq.backend.cython._device', 'zmq.backend.cython._proxy_steerable', 'zmq.sugar', 'zmq.sugar.constants', 'zmq.utils', 'zmq.utils.constant_names', 'zmq.sugar.context', 'zmq.sugar.attrsettr', 'zmq.sugar.socket', 'zmq.sugar.poll', 'zmq.utils.jsonapi', 'zmq.utils.strtypes', 'zmq.sugar.frame', 'zmq.sugar.tracker', 'zmq.sugar.version', 'zmq.sugar.stopwatch', 'jupyter_client.localinterfaces', 'jupyter_core', 'jupyter_core.version', 'jupyter_core.paths', 'jupyter_client.utils', 'jupyter_client.launcher', 'traitlets.log', 'jupyter_client.client', 'jupyter_client.channels', 'jupyter_client.channelsabc', 'jupyter_client.clientabc', 'jupyter_client.manager', 'jupyter_client.kernelspec', 'jupyter_client.managerabc', 'jupyter_client.blocking', 'jupyter_client.blocking.client', 'jupyter_client.blocking.channels', 'jupyter_client.asynchronous', 'jupyter_client.asynchronous.client', 'zmq.asyncio', 'zmq._future', 'jupyter_client.asynchronous.channels', 'jupyter_client.multikernelmanager', 'uuid', 'ipykernel.kernelapp', 'tornado', 'tornado.ioloop', 'numbers', 'tornado.concurrent', 'tornado.log', 'logging.handlers', 'tornado.escape', 'tornado.util', 'tornado.speedups', 'colorama', 'colorama.initialise', 'colorama.ansitowin32', 'colorama.ansi', 'colorama.winterm', 'colorama.win32', 'zmq.eventloop', 'zmq.eventloop.ioloop', 'tornado.platform', 'tornado.platform.asyncio', 'tornado.gen', 'zmq.eventloop.zmqstream', 'ipython_genutils.importstring', 'ipykernel.iostream', 'imp', 'jupyter_client.session', 'hmac', 'jupyter_client.jsonutil', 'dateutil', 'dateutil._version', 'dateutil.parser', 'dateutil.parser._parser', 'six', 'decimal', '_decimal', 'dateutil.relativedelta', 'dateutil._common', 'dateutil.tz', 'dateutil.tz.tz', 'six.moves', 'dateutil.tz._common', 'dateutil.tz._factories', 'dateutil.tz.win', 'dateutil.parser.isoparser', '_strptime', 'jupyter_client.adapter', 'ipykernel.heartbeat', 'ipykernel.ipkernel', 'IPython.utils.tokenutil', 'ipykernel.comm', 'ipykernel.comm.manager', 'ipykernel.comm.comm', 'ipykernel.kernelbase', 'tornado.queues', 'tornado.locks', 'ipykernel.jsonutil', 'ipykernel.zmqshell', 'IPython.core.payloadpage', 'ipykernel.displayhook', 'ipykernel.datapub', 'ipykernel.serialize', 'ipykernel.pickleutil', 'ipykernel.codeutil', 'ipykernel.eventloops', 'distutils', 'distutils.version', 'ipykernel.parentpoller', 'win32api', 'win32security', 'ntsecuritycon', 'faulthandler', 'IPython.core.completerlib', 'storemagic', 'jupyter_require', 'daiquiri', 'logging.config', 'socketserver', 'daiquiri.output', 'daiquiri.formatter', 'pythonjsonlogger', 'pythonjsonlogger.jsonlogger', 'daiquiri.types', 'daiquiri.handlers', 'jupyter_require.__about__', 'jupyter_require.notebook', 'csscompressor', 'jupyter_require.core', 'jupyter_require.magic', 'jupyter_nbutils', 'jupyter_nbutils.__about__', 'jupyter_nbutils.config', 'jupyter_nbutils.utils', 'pandas', 'numpy', 'numpy._globals', 'numpy.__config__', 'numpy.version', 'numpy._distributor_init', 'numpy.core', 'numpy.core.multiarray', 'numpy.core.overrides', 'numpy.core._multiarray_umath', 'numpy.compat', 'numpy.compat._inspect', 'numpy.compat.py3k', 'numpy.core.umath', 'numpy.core.numerictypes', 'numpy.core._string_helpers', 'numpy.core._type_aliases', 'numpy.core._dtype', 'numpy.core.numeric', 'numpy.core.shape_base', 'numpy.core._asarray', 'numpy.core.fromnumeric', 'numpy.core._methods', 'numpy.core._exceptions', 'numpy.core._ufunc_config', 'numpy.core.arrayprint', 'numpy.core.defchararray', 'numpy.core.records', 'numpy.core.memmap', 'numpy.core.function_base', 'numpy.core.machar', 'numpy.core.getlimits', 'numpy.core.einsumfunc', 'numpy.core._add_newdocs', 'numpy.core._multiarray_tests', 'numpy.core._add_newdocs_scalars', 'numpy.core._dtype_ctypes', 'numpy.core._internal', 'numpy._pytesttester', 'numpy.lib', 'numpy.lib.mixins', 'numpy.lib.scimath', 'numpy.lib.type_check', 'numpy.lib.ufunclike', 'numpy.lib.index_tricks', 'numpy.matrixlib', 'numpy.matrixlib.defmatrix', 'numpy.linalg', 'numpy.linalg.linalg', 'numpy.lib.twodim_base', 'numpy.linalg.lapack_lite', 'numpy.linalg._umath_linalg', 'numpy.lib.function_base', 'numpy.lib.histograms', 'numpy.lib.stride_tricks', 'numpy.lib.nanfunctions', 'numpy.lib.shape_base', 'numpy.lib.polynomial', 'numpy.lib.utils', 'numpy.lib.arraysetops', 'numpy.lib.npyio', 'numpy.lib.format', 'numpy.lib._datasource', 'numpy.lib._iotools', 'numpy.lib.arrayterator', 'numpy.lib.arraypad', 'numpy.lib._version', 'numpy.fft', 'numpy.fft._pocketfft', 'numpy.fft._pocketfft_internal', 'numpy.fft.helper', 'numpy.polynomial', 'numpy.polynomial.polynomial', 'numpy.polynomial.polyutils', 'numpy.polynomial._polybase', 'numpy.polynomial.chebyshev', 'numpy.polynomial.legendre', 'numpy.polynomial.hermite', 'numpy.polynomial.hermite_e', 'numpy.polynomial.laguerre', 'numpy.random', 'numpy.random._pickle', 'numpy.random.mtrand', 'numpy.random.bit_generator', 'numpy.random._common', 'secrets', 'numpy.random._bounded_integers', 'numpy.random._mt19937', 'numpy.random._philox', 'numpy.random._pcg64', 'numpy.random._sfc64', 'numpy.random._generator', 'numpy.ctypeslib', 'numpy.ma', 'numpy.ma.core', 'numpy.ma.extras', 'pytz', 'pytz.exceptions', 'pytz.lazy', 'pytz.tzinfo', 'pytz.tzfile', 'pandas.compat', 'pandas._typing', 'mmap', 'pandas.compat.numpy', 'pandas._libs', 'pandas._libs.interval', 'pandas._libs.hashtable', 'pandas._libs.missing', 'pandas._libs.tslibs', 'pandas._libs.tslibs.dtypes', 'pandas._libs.tslibs.conversion', 'pandas._libs.tslibs.base', 'pandas._libs.tslibs.nattype', 'pandas._libs.tslibs.np_datetime', 'pandas._libs.tslibs.timezones', 'pandas._libs.tslibs.tzconversion', 'pandas._libs.tslibs.ccalendar', 'pandas._libs.tslibs.parsing', 'pandas._libs.tslibs.offsets', 'pandas._libs.tslibs.timedeltas', 'pandas._libs.tslibs.timestamps', 'pandas._libs.tslibs.fields', 'pandas._config', 'pandas._config.config', 'pandas._config.dates', 'pandas._config.display', 'pandas._config.localization', 'pandas._libs.tslibs.strptime', 'dateutil.easter', 'pandas._libs.properties', 'pandas._libs.tslibs.period', 'pandas._libs.tslibs.vectorized', 'pandas._libs.ops_dispatch', 'pandas._libs.algos', 'pandas._libs.lib', 'pandas._libs.tslib', 'pandas.core', 'pandas.core.config_init', 'pandas.core.api', 'pandas.core.dtypes', 'pandas.core.dtypes.dtypes', 'pandas.core.dtypes.base', 'pandas.errors', 'pandas.core.dtypes.generic', 'pandas.core.dtypes.inference', 'pandas.core.dtypes.missing', 'pandas.core.dtypes.common', 'pandas.core.algorithms', 'pandas.util', 'pandas.util._decorators', 'pandas.core.util', 'pandas.core.util.hashing', 'pandas._libs.hashing', 'pandas.core.dtypes.cast', 'pandas.util._validators', 'pandas.core.construction', 'pandas.core.common', 'pandas.core.indexers', 'pandas.core.arrays', 'pandas.core.arrays.base', 'pandas.compat.numpy.function', 'pandas.core.ops', 'pandas.core.ops.array_ops', 'pandas._libs.ops', 'pandas.core.ops.missing', 'pandas.core.ops.roperator', 'pandas.core.ops.dispatch', 'pandas.core.ops.invalid', 'pandas.core.ops.common', 'pandas.core.ops.docstrings', 'pandas.core.ops.mask_ops', 'pandas.core.ops.methods', 'pandas.core.missing', 'pandas.compat._optional', 'pandas.core.sorting', 'pandas.core.arrays.boolean', 'pandas.core.arrays.masked', 'pandas.core.nanops', 'pandas.core.array_algos', 'pandas.core.array_algos.masked_reductions', 'pandas.core.arraylike', 'pandas.core.arrays.categorical', 'csv', '_csv', 'pandas.core.accessor', 'pandas.core.arrays._mixins', 'pandas.core.array_algos.transforms', 'pandas.core.base', 'pandas.core.strings', 'pandas.core.strings.accessor', 'pandas.core.strings.base', 'pandas.core.strings.object_array', 'pandas.io', 'pandas.io.formats', 'pandas.io.formats.console', 'pandas.core.arrays.datetimes', 'pandas.core.arrays.datetimelike', 'pandas.tseries', 'pandas.tseries.frequencies', 'pandas.core.arrays._ranges', 'pandas.tseries.offsets', 'pandas.core.arrays.floating', 'pandas.core.tools', 'pandas.core.tools.numeric', 'pandas.core.arrays.numeric', 'pandas.core.arrays.integer', 'pandas.core.arrays.interval', 'pandas.core.indexes', 'pandas.core.indexes.base', 'pandas._libs.index', 'pandas._libs.join', 'pandas.core.dtypes.concat', 'pandas.core.arrays.sparse', 'pandas.core.arrays.sparse.accessor', 'pandas.core.arrays.sparse.array', 'pandas._libs.sparse', 'pandas.core.arrays.sparse.dtype', 'pandas.io.formats.printing', 'pandas.core.indexes.frozen', 'pandas.core.arrays.numpy_', 'pandas.core.arrays.period', 'pandas.core.arrays.string_', 'pandas.core.arrays.timedeltas', 'pandas.core.flags', 'pandas.core.groupby', 'pandas.core.groupby.generic', 'pandas._libs.reduction', 'pandas.core.aggregation', 'pandas.core.indexes.api', 'pandas.core.indexes.category', 'pandas.core.indexes.extension', 'pandas.core.indexes.datetimes', 'pandas.core.indexes.datetimelike', 'pandas.core.indexes.numeric', 'pandas.core.tools.timedeltas', 'pandas.core.tools.times', 'pandas.core.indexes.interval', 'pandas.util._exceptions', 'pandas.core.indexes.multi', 'pandas.core.indexes.timedeltas', 'pandas.core.indexes.period', 'pandas.core.indexes.range', 'pandas.core.frame', 'pandas.core.generic', 'pandas.core.indexing', 'pandas._libs.indexing', 'pandas.core.internals', 'pandas.core.internals.blocks', 'pandas._libs.internals', 'pandas._libs.writers', 'pandas.core.array_algos.replace', 'pandas.core.internals.concat', 'pandas.core.internals.managers', 'pandas.core.internals.ops', 'pandas.core.shared_docs', 'pandas.core.window', 'pandas.core.window.ewm', 'pandas._libs.window', 'pandas._libs.window.aggregations', 'pandas.core.util.numba_', 'pandas.core.window.common', 'pandas.core.window.indexers', 'pandas._libs.window.indexers', 'pandas.core.window.numba_', 'pandas.core.window.rolling', 'pandas.core.groupby.base', 'pandas.core.window.expanding', 'pandas.io.formats.format', 'pandas.core.reshape', 'pandas.core.reshape.concat', 'pandas.io.common', 'dataclasses', 'gzip', 'zipfile', 'pandas.core.internals.construction', 'pandas.core.reshape.melt', 'pandas.core.reshape.util', 'pandas.core.series', 'pandas._libs.reshape', 'pandas.core.indexes.accessors', 'pandas.core.tools.datetimes', 'pandas.arrays', 'pandas.plotting', 'pandas.plotting._core', 'pandas.plotting._misc', 'pandas.io.formats.info', 'pandas.core.groupby.groupby', 'pandas._libs.groupby', 'pandas.core.groupby.numba_', 'pandas.core.groupby.ops', 'pandas.core.groupby.grouper', 'pandas.core.groupby.categorical', 'pandas.tseries.api', 'pandas.core.computation', 'pandas.core.computation.api', 'pandas.core.computation.eval', 'pandas.core.computation.engines', 'pandas.core.computation.align', 'pandas.core.computation.common', 'pandas.core.computation.ops', 'pandas.core.computation.scope', 'pandas.compat.chainmap', 'pandas.core.computation.expr', 'pandas.core.computation.parsing', 'pandas.core.reshape.api', 'pandas.core.reshape.merge', 'pandas.core.reshape.pivot', 'pandas.core.reshape.reshape', 'pandas.core.reshape.tile', 'pandas.api', 'pandas.api.extensions', 'pandas.api.indexers', 'pandas.api.types', 'pandas.core.dtypes.api', 'pandas.util._print_versions', 'pandas.io.api', 'pandas.io.clipboards', 'pandas.io.excel', 'pandas.io.excel._base', 'pandas._libs.parsers', 'pandas.io.excel._util', 'pandas.io.parsers', 'pandas.io.date_converters', 'pandas.io.excel._odfreader', 'pandas.io.excel._openpyxl', 'pandas.io.excel._pyxlsb', 'pandas.io.excel._xlrd', 'pandas.io.excel._odswriter', 'pandas._libs.json', 'pandas.io.formats.excel', 'pandas.io.formats._color_data', 'pandas.io.formats.css', 'pandas.io.excel._xlsxwriter', 'pandas.io.excel._xlwt', 'pandas.io.feather_format', 'pandas.io.gbq', 'pandas.io.html', 'pandas.io.json', 'pandas.io.json._json', 'pandas.io.json._normalize', 'pandas.io.json._table_schema', 'pandas.io.orc', 'pandas.io.parquet', 'pandas.io.pickle', 'pandas.compat.pickle_compat', 'pandas.io.pytables', 'pandas.core.computation.pytables', 'pandas.io.sas', 'pandas.io.sas.sasreader', 'pandas.io.spss', 'pandas.io.sql', 'pandas.io.stata', 'pandas.util._tester', 'pandas.testing', 'pandas._testing', 'pandas._libs.testing', 'cmath', 'pandas._version', 'matplotlib', 'matplotlib._api', 'matplotlib._api.deprecation', 'matplotlib.cbook', 'matplotlib._c_internal_utils', 'matplotlib.docstring', 'matplotlib.rcsetup', 'matplotlib.animation', 'PIL', 'PIL._version', 'PIL.Image', 'defusedxml', 'defusedxml.common', 'xml.parsers', 'xml.parsers.expat', 'pyexpat.errors', 'pyexpat.model', 'pyexpat', 'xml.parsers.expat.model', 'xml.parsers.expat.errors', 'defusedxml.ElementTree', 'xml.etree', 'xml.etree.ElementPath', '_elementtree', 'xml.etree.ElementTree', 'PIL.ImageMode', 'PIL.TiffTags', 'PIL._binary', 'PIL._util', 'PIL._imaging', 'cffi', 'cffi.api', 'cffi.lock', 'cffi.error', 'cffi.model', 'matplotlib._animation_data', 'matplotlib.colors', 'PIL.PngImagePlugin', 'PIL.ImageChops', 'PIL.ImageFile', 'PIL.ImagePalette', 'PIL.GimpGradientFile', 'PIL.GimpPaletteFile', 'PIL.ImageColor', 'PIL.PaletteFile', 'PIL.ImageSequence', 'matplotlib.scale', 'matplotlib.ticker', 'matplotlib.transforms', 'matplotlib._path', 'matplotlib.path', 'matplotlib.bezier', 'matplotlib._color_data', 'matplotlib.fontconfig_pattern', 'pyparsing', 'matplotlib._enums', 'cycler', 'matplotlib._version', 'matplotlib.ft2font', 'kiwisolver', 'matplotlib.dates', 'dateutil.rrule', 'matplotlib.units']
+2023-06-06 10:53:52,299 [19044] DEBUG    matplotlib:224: [JupyterRequire] CACHEDIR=C:\Users\pc\.matplotlib
+2023-06-06 10:53:52,317 [19044] DEBUG    matplotlib.font_manager:1439: [JupyterRequire] Using fontManager instance from C:\Users\pc\.matplotlib\fontlist-v330.json
+2023-06-06 10:53:52,858 [19044] DEBUG    matplotlib.pyplot:291: [JupyterRequire] Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2023-06-06 10:53:52,863 [19044] DEBUG    matplotlib.pyplot:291: [JupyterRequire] Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2023-06-06 10:53:55,213 [19044] INFO     visions.backends:14: [JupyterRequire] Pandas backend loaded 1.2.4
+2023-06-06 10:53:55,245 [19044] INFO     visions.backends:25: [JupyterRequire] Numpy backend loaded 1.20.3
+2023-06-06 10:53:55,246 [19044] INFO     visions.backends:37: [JupyterRequire] Pyspark backend NOT loaded
+2023-06-06 10:53:55,246 [19044] INFO     visions.backends:43: [JupyterRequire] Python backend loaded
+2023-06-06 10:53:59,816 [19044] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-06-06 10:53:59,899 [19044] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-06-06 10:54:00,127 [19044] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-06 10:54:00,128 [19044] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-06 10:54:00,129 [19044] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-06 10:54:00,130 [19044] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-06 10:54:00,130 [19044] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-06 10:54:01,530 [19044] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-06 10:54:01,531 [19044] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-06 10:54:01,531 [19044] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-06 10:54:01,532 [19044] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-06 10:54:01,533 [19044] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-07 11:24:33,227 [12628] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 11:24:33,227 [12628] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 11:24:33,229 [12628] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 11:24:33,236 [12628] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 11:24:33,238 [12628] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 11:24:33,239 [12628] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-12 10:58:51,426 [7720] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-12 10:58:51,427 [7720] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:51,428 [7720] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:51,434 [7720] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-12 10:58:51,435 [7720] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-12 10:58:51,436 [7720] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-12 10:58:52,426 [7720] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-12 10:58:52,426 [7720] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:52,426 [7720] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:52,431 [7720] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-12 10:58:52,432 [7720] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-12 10:58:52,433 [7720] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-12 10:58:54,403 [17316] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-12 10:58:54,404 [17316] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:54,404 [17316] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-12 10:58:54,407 [17316] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-12 10:58:54,407 [17316] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-12 10:58:54,408 [17316] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-12 11:12:44,185 [7720] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-06-12 11:12:44,248 [7720] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-06-12 11:12:57,165 [7720] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-12 11:12:57,165 [7720] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-12 11:12:57,166 [7720] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-12 11:12:57,167 [7720] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-12 11:12:57,167 [7720] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-12 11:17:01,623 [7720] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-12 11:17:01,623 [7720] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-12 11:17:01,624 [7720] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-12 11:17:01,625 [7720] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-12 11:17:01,625 [7720] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-12 11:17:32,572 [7720] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-12 11:17:32,572 [7720] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-12 11:17:32,573 [7720] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-12 11:17:32,574 [7720] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-12 11:17:32,575 [7720] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-12 16:02:45,596 [9876] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-12 16:02:45,596 [9876] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-12 16:02:45,597 [9876] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-12 16:02:45,601 [9876] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-12 16:02:45,603 [9876] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-12 16:02:45,603 [9876] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-12 16:02:46,851 [9876] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-12 16:02:46,851 [9876] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-12 16:02:46,852 [9876] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-12 16:02:46,858 [9876] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-12 16:02:46,860 [9876] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-12 16:02:46,860 [9876] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-13 11:04:26,357 [11460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-13 11:04:26,358 [11460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-13 11:04:26,358 [11460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-13 11:04:26,364 [11460] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-13 11:04:26,365 [11460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-13 11:04:26,366 [11460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-13 11:04:26,907 [11460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-13 11:04:26,907 [11460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-13 11:04:26,908 [11460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-13 11:04:26,914 [11460] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-13 11:04:26,915 [11460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-13 11:04:26,916 [11460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-13 11:09:52,321 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\__init__.py
+2023-06-13 11:10:22,045 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:10:22,046 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:10:22,046 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:10:22,047 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:10:22,047 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:10:22,236 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-06-13 11:10:22,297 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-06-13 11:11:20,604 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:11:20,605 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:11:20,605 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:11:20,606 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:11:20,607 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:11:24,313 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:11:24,313 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:11:24,313 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:11:24,314 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:11:24,314 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:11:26,443 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:11:26,443 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:11:26,443 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:11:26,444 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:11:26,444 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:11:30,429 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:11:30,429 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:11:30,430 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:11:30,430 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:11:30,431 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:11:30,536 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\frame.py
+2023-06-13 11:11:30,581 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\__init__.py
+2023-06-13 11:11:30,747 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\generic.py
+2023-06-13 11:11:30,875 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\base.py
+2023-06-13 11:11:30,905 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\accessor.py
+2023-06-13 11:11:30,973 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\indexing.py
+2023-06-13 11:11:31,010 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\arraylike.py
+2023-06-13 11:13:21,035 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:13:21,035 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:13:21,036 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:13:21,036 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:13:21,036 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:13:21,136 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\typing.py
+2023-06-13 11:13:21,188 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-06-13 11:13:23,093 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:13:23,094 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:13:23,094 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:13:23,095 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:13:23,095 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:13:26,029 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:13:26,029 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:13:26,030 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:13:26,030 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:13:26,031 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:13:30,302 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:13:30,303 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:13:30,303 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:13:30,304 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:13:30,304 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:13:30,363 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\_typing.py
+2023-06-13 11:13:34,153 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:13:34,154 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:13:34,154 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:13:34,155 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:13:34,156 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:14:56,611 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:14:56,612 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:14:56,612 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:14:56,613 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:14:56,613 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:15:08,103 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:15:08,104 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:15:08,104 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:15:08,105 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:15:08,106 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:15:10,636 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:15:10,637 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:15:10,637 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:15:10,637 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:15:10,638 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:15:32,537 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:15:32,538 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:15:32,538 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:15:32,539 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:15:32,539 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:19:24,176 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:19:24,177 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 11:19:24,177 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[insert] old[1:0] new[1:1]
+2023-06-13 11:19:24,178 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 1 in part parser)
+2023-06-13 11:19:24,179 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[2:2]
+2023-06-13 11:19:24,179 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:0] new[2:2]
+2023-06-13 11:19:24,180 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:19:28,844 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:19:28,845 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 11:19:28,845 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 11:19:28,845 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2023-06-13 11:19:28,846 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 11:19:28,847 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2023-06-13 11:19:28,847 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:19:32,499 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:19:32,500 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 11:19:32,500 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 11:19:32,501 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2023-06-13 11:19:32,501 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 11:19:32,502 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2023-06-13 11:19:32,503 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:19:34,977 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:19:34,977 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 11:19:34,977 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 11:19:34,978 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2023-06-13 11:19:34,978 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 11:19:34,979 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2023-06-13 11:19:34,979 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:24:24,636 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:24:24,636 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-13 11:24:24,637 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-13 11:24:24,637 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:24:24,638 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:24:27,450 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:24:27,450 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:24:27,451 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:24:27,451 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:24:27,452 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:24:50,996 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:24:50,997 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:24:50,997 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:24:50,998 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:24:50,999 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:24:51,136 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\series.py
+2023-06-13 11:24:51,238 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\common.py
+2023-06-13 11:24:51,265 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\_libs\__init__.py
+2023-06-13 11:24:51,975 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\indexes\__init__.py
+2023-06-13 11:24:52,001 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\indexes\api.py
+2023-06-13 11:24:52,090 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\indexes\base.py
+2023-06-13 11:24:52,211 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\arrays\__init__.py
+2023-06-13 11:24:52,249 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\pandas\core\arrays\base.py
+2023-06-13 11:24:52,283 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\numpy\__init__.py
+2023-06-13 11:24:52,333 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\numpy\__init__.pyi
+2023-06-13 11:24:52,370 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\abc.py
+2023-06-13 11:24:52,387 [11460] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2023-06-13 11:27:52,561 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:27:52,561 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:27:52,562 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:27:52,562 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:27:52,563 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:27:55,338 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:27:55,339 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:27:55,339 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:27:55,340 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:27:55,340 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:27:59,529 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:27:59,529 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:27:59,530 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:27:59,530 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:27:59,531 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:28:02,438 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:28:02,438 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:28:02,439 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:28:02,439 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:28:02,440 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:28:18,723 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:28:18,723 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 11:28:18,724 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-13 11:28:18,724 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 11:28:18,725 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:29:13,746 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:29:13,746 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-13 11:29:13,746 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-13 11:29:13,747 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:29:13,748 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:29:37,750 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:29:37,750 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:29:37,751 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:29:37,751 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:29:37,752 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:32:38,814 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:32:38,815 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:32:38,815 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:32:38,816 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:32:38,816 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:32:42,666 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:32:42,667 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:32:42,667 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:32:42,667 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:32:42,668 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:33:04,096 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:33:04,097 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:33:04,097 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:33:04,098 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:33:04,098 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:33:09,735 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:33:09,735 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:33:09,736 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:33:09,736 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:33:09,737 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:33:31,622 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:33:31,623 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:33:31,623 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:33:31,623 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:33:31,624 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:33:34,197 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:33:34,198 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:33:34,198 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:33:34,199 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:33:34,200 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:33:57,489 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:33:57,490 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:33:57,490 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:33:57,491 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:33:57,491 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:34:00,060 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:34:00,061 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:34:00,062 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:34:00,062 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:34:00,063 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:34:19,388 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:34:19,389 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:34:19,389 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:34:19,390 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:34:19,390 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:36:02,161 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:36:02,162 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:36:02,162 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:36:02,163 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:36:02,163 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:36:20,391 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:36:20,391 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:36:20,391 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:36:20,392 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:36:20,393 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:37:28,059 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:37:28,060 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:37:28,060 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:37:28,061 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:37:28,061 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:37:32,517 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:37:32,518 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 11:37:32,518 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-13 11:37:32,519 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 11:37:32,520 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:37:35,453 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:37:35,453 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 11:37:35,454 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 11:37:35,454 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 11:37:35,455 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 11:37:35,455 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:39:23,875 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:39:23,876 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-13 11:39:23,876 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-13 11:39:23,876 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:39:23,877 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:56:03,218 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:56:03,219 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:56:03,219 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:56:03,220 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:56:03,220 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:56:07,683 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:56:07,684 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-13 11:56:07,684 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-13 11:56:07,685 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:56:07,685 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:56:10,367 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:56:10,368 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 11:56:10,368 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-13 11:56:10,369 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 11:56:10,370 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:57:07,620 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:57:07,621 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-13 11:57:07,621 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-13 11:57:07,622 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 11:57:07,622 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 11:59:29,581 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 11:59:29,582 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 11:59:29,582 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-13 11:59:29,583 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 11:59:29,583 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:01:29,743 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:01:29,744 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-13 12:01:29,744 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-13 12:01:29,745 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-13 12:01:29,745 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:27,736 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:27,736 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-13 12:16:27,737 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-13 12:16:27,738 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 12:16:27,738 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:36,857 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:36,858 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 12:16:36,858 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 12:16:36,858 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 12:16:36,859 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 12:16:36,859 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:41,618 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:41,619 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 12:16:41,620 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 12:16:41,621 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 12:16:41,621 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 12:16:41,621 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:43,055 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:43,055 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 12:16:43,056 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 12:16:43,056 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 12:16:43,057 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 12:16:43,058 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:47,406 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:47,407 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2023-06-13 12:16:47,407 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 12:16:47,409 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-13 12:16:47,409 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2023-06-13 12:16:47,410 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:16:58,634 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:16:58,635 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 3
+2023-06-13 12:16:58,636 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-13 12:16:58,638 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2023-06-13 12:16:58,638 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:3]
+2023-06-13 12:16:58,638 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:17:26,747 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:17:26,747 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 4
+2023-06-13 12:17:26,748 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2023-06-13 12:17:26,750 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 3 in part parser)
+2023-06-13 12:17:26,750 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:4]
+2023-06-13 12:17:26,751 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 3 in part parser)
+2023-06-13 12:17:26,751 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:17:51,601 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-13 12:17:51,601 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-13 12:17:51,602 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-13 12:17:51,604 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 3 in part parser)
+2023-06-13 12:17:51,604 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[insert] old[4:3] new[4:4]
+2023-06-13 12:17:51,606 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 5 (to 4 in part parser)
+2023-06-13 12:17:51,606 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[4:4] new[5:5]
+2023-06-13 12:17:51,607 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-13 12:52:51,455 [11460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-13 12:52:51,456 [11460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-13 12:52:51,456 [11460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-13 12:52:51,463 [11460] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-13 12:52:51,464 [11460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-13 12:52:51,465 [11460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-13 15:04:21,150 [11460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-13 15:04:21,151 [11460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-13 15:04:21,151 [11460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-13 15:04:21,157 [11460] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-13 15:04:21,158 [11460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-13 15:04:21,158 [11460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-14 10:32:52,265 [11460] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-14 10:32:52,266 [11460] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-14 10:32:52,266 [11460] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-14 10:32:52,272 [11460] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-14 10:32:52,274 [11460] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-14 10:32:52,275 [11460] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-14 10:35:01,830 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:35:01,832 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 4
+2023-06-14 10:35:01,832 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:5] new[1:4]
+2023-06-14 10:35:01,845 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 4 (to 3 in part parser)
+2023-06-14 10:35:01,846 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:35:15,853 [11460] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version.
+  after removing the cwd from sys.path.
+
+2023-06-14 10:35:15,890 [11460] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will*not* be treated as literal strings when regex=True.
+  after removing the cwd from sys.path.
+
+2023-06-14 10:35:27,230 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:35:27,231 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 1
+2023-06-14 10:35:27,231 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:4] new[1:1]
+2023-06-14 10:35:27,231 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:35:27,232 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:49:46,583 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:49:46,584 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 3
+2023-06-14 10:49:46,584 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:3]
+2023-06-14 10:49:46,586 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2023-06-14 10:49:46,587 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:49:52,587 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:49:52,588 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 4
+2023-06-14 10:49:52,588 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2023-06-14 10:49:52,589 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:49:52,589 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:4]
+2023-06-14 10:49:52,590 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:49:52,591 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:50:04,517 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:50:04,517 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 10:50:04,518 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 10:50:04,518 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:50:04,520 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:50:04,521 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:4]
+2023-06-14 10:50:04,521 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:52:12,521 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:52:12,521 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 10:52:12,522 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2023-06-14 10:52:12,522 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:52:12,522 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:4] new[3:4]
+2023-06-14 10:52:12,523 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:52:12,524 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:52:13,975 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:52:13,976 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 10:52:13,976 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 10:52:13,977 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:52:13,978 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:52:13,978 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:4]
+2023-06-14 10:52:13,979 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:52:15,161 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:52:15,161 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 10:52:15,162 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 10:52:15,162 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:52:15,163 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:52:15,163 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:4]
+2023-06-14 10:52:15,164 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:52:30,393 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:52:30,393 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 10:52:30,394 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 10:52:30,394 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 10:52:30,396 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 10:52:30,397 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:4]
+2023-06-14 10:52:30,397 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:53:23,421 [11460] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version.
+  after removing the cwd from sys.path.
+
+2023-06-14 10:53:23,431 [11460] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will*not* be treated as literal strings when regex=True.
+  after removing the cwd from sys.path.
+
+2023-06-14 10:55:44,697 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:55:44,698 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 1
+2023-06-14 10:55:44,698 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:4] new[1:1]
+2023-06-14 10:55:44,699 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:55:44,699 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:56:13,659 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:56:13,660 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 10:56:13,660 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 10:56:13,661 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:56:13,661 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:56:48,134 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:56:48,135 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-14 10:56:48,135 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-14 10:56:48,139 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-14 10:56:48,140 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:57:47,747 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:57:47,748 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2023-06-14 10:57:47,748 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2023-06-14 10:57:47,749 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:57:47,749 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:58:46,155 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:58:46,156 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 10:58:46,157 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 10:58:46,158 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:58:46,158 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:59:00,890 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:59:00,890 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 10:59:00,891 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 10:59:00,892 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:59:00,893 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:59:10,253 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:59:10,253 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 10:59:10,254 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 10:59:10,254 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:59:10,255 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:59:11,502 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:59:11,503 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 10:59:11,503 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 10:59:11,504 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 10:59:11,504 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 10:59:58,372 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 10:59:58,373 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 7
+2023-06-14 10:59:58,373 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:7]
+2023-06-14 10:59:58,376 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 7 (to 6 in part parser)
+2023-06-14 10:59:58,376 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:00:09,358 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:00:09,359 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2023-06-14 11:00:09,359 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2023-06-14 11:00:09,360 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[5:6] new[1:6]
+2023-06-14 11:00:09,360 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[7:7] new[7:7]
+2023-06-14 11:00:09,361 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 7 to 7 (to 6 in part parser)
+2023-06-14 11:00:09,362 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:00:57,531 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:00:57,531 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2023-06-14 11:00:57,532 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:00:57,533 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 7 (to 6 in part parser)
+2023-06-14 11:00:57,533 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:7] new[5:7]
+2023-06-14 11:00:57,534 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:01:19,574 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:01:19,575 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 8
+2023-06-14 11:01:19,575 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2023-06-14 11:01:19,577 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 7 (to 7 in part parser)
+2023-06-14 11:01:19,578 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[7:7] new[7:8]
+2023-06-14 11:01:19,579 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 8 to 8 (to 7 in part parser)
+2023-06-14 11:01:19,579 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:01:20,725 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:01:20,726 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 8; new: 8
+2023-06-14 11:01:20,726 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:7] new[1:7]
+2023-06-14 11:01:20,727 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[7:7] new[1:7]
+2023-06-14 11:01:20,727 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[8:8] new[8:8]
+2023-06-14 11:01:20,729 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 8 to 8 (to 7 in part parser)
+2023-06-14 11:01:20,730 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:10:10,950 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:10:10,950 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 8; new: 1
+2023-06-14 11:10:10,951 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:8] new[1:1]
+2023-06-14 11:10:10,951 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 11:10:10,952 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:11:31,557 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:11:31,557 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 11:11:31,557 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 11:11:31,558 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 11:11:31,558 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:11:32,229 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:11:32,230 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 11:11:32,230 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 11:11:32,231 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 11:11:32,231 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:14:13,211 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:14:13,211 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-14 11:14:13,212 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-14 11:14:13,212 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-14 11:14:13,213 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:20:32,452 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:20:32,452 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 4
+2023-06-14 11:20:32,452 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:4]
+2023-06-14 11:20:32,454 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 4 (to 3 in part parser)
+2023-06-14 11:20:32,455 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:20:33,862 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:20:33,863 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 4
+2023-06-14 11:20:33,863 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:20:33,864 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:20:33,865 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 11:20:33,865 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:4]
+2023-06-14 11:20:33,866 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:21:03,083 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:21:03,083 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-14 11:21:03,084 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:21:03,084 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:21:03,086 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:21:03,086 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:5]
+2023-06-14 11:21:03,087 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:21:24,841 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:21:24,841 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:21:24,841 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:21:24,842 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:21:24,843 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:21:24,844 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:5] new[4:5]
+2023-06-14 11:21:24,844 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:21:39,062 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:21:39,063 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 6
+2023-06-14 11:21:39,063 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:21:39,064 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:21:39,066 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:21:39,067 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:6]
+2023-06-14 11:21:39,067 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:21:55,785 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:21:55,786 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 6
+2023-06-14 11:21:55,786 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:21:55,787 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:21:55,789 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:21:55,790 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:6]
+2023-06-14 11:21:55,790 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:22:21,877 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:22:21,878 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2023-06-14 11:22:21,878 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:22:21,879 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:22:21,881 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 7 (to 6 in part parser)
+2023-06-14 11:22:21,882 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:7]
+2023-06-14 11:22:21,882 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:23:11,796 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:23:11,797 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 4
+2023-06-14 11:23:11,797 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:23:11,798 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:23:11,799 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 11:23:11,800 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:7] new[4:4]
+2023-06-14 11:23:11,800 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:23:42,477 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:23:42,478 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-14 11:23:42,478 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:23:42,479 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:23:42,480 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:23:42,481 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:5]
+2023-06-14 11:23:42,481 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:23:53,591 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:23:53,592 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:23:53,592 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:23:53,592 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:23:53,594 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:23:53,595 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:5]
+2023-06-14 11:23:53,595 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:24:02,192 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:24:02,193 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 6
+2023-06-14 11:24:02,193 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:24:02,194 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:24:02,196 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:24:02,196 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:6]
+2023-06-14 11:24:02,196 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:24:18,658 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:24:18,658 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 6
+2023-06-14 11:24:18,659 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:24:18,659 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:24:18,662 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:24:18,663 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:6]
+2023-06-14 11:24:18,663 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:24:32,368 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:24:32,369 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2023-06-14 11:24:32,369 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:24:32,370 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:24:32,372 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 7 (to 6 in part parser)
+2023-06-14 11:24:32,373 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:7]
+2023-06-14 11:24:32,373 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:24:56,667 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:24:56,667 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 4
+2023-06-14 11:24:56,668 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:24:56,668 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:24:56,669 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 11:24:56,670 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:7] new[4:4]
+2023-06-14 11:24:56,670 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:25:13,082 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:25:13,083 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-14 11:25:13,083 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:25:13,084 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:25:13,085 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:25:13,086 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:5]
+2023-06-14 11:25:13,086 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:25:16,988 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:25:16,988 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:25:16,989 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:25:16,989 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:25:16,991 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:25:16,991 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:5]
+2023-06-14 11:25:16,992 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:25:20,965 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:25:20,965 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 6
+2023-06-14 11:25:20,965 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:25:20,966 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:25:20,968 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:25:20,968 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:6]
+2023-06-14 11:25:20,969 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:25:50,464 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:25:50,465 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 6
+2023-06-14 11:25:50,465 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:25:50,466 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:25:50,468 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:25:50,469 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:6]
+2023-06-14 11:25:50,469 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:26:01,343 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:26:01,344 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2023-06-14 11:26:01,344 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:26:01,345 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:26:01,347 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 7 (to 6 in part parser)
+2023-06-14 11:26:01,348 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:7]
+2023-06-14 11:26:01,348 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:26:41,983 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:26:41,984 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 4
+2023-06-14 11:26:41,984 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:26:41,985 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:26:41,986 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 11:26:41,986 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:7] new[4:4]
+2023-06-14 11:26:41,986 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:26:57,725 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:26:57,725 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-14 11:26:57,726 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:26:57,726 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:26:57,728 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:26:57,728 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:5]
+2023-06-14 11:26:57,729 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:27:05,602 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:27:05,602 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:27:05,603 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:27:05,603 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:27:05,605 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:27:05,606 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:5]
+2023-06-14 11:27:05,606 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:27:10,526 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:27:10,526 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 6
+2023-06-14 11:27:10,526 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:27:10,527 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:27:10,529 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:27:10,530 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:6]
+2023-06-14 11:27:10,530 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:27:25,291 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:27:25,291 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 6
+2023-06-14 11:27:25,292 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:27:25,292 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:27:25,295 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:27:25,295 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:6]
+2023-06-14 11:27:25,296 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:27:35,515 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:27:35,516 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2023-06-14 11:27:35,516 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:27:35,517 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:27:35,521 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 7 (to 6 in part parser)
+2023-06-14 11:27:35,521 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:7]
+2023-06-14 11:27:35,522 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:38:26,823 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:38:26,824 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 4
+2023-06-14 11:38:26,824 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:38:26,825 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:38:26,826 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 4 (to 3 in part parser)
+2023-06-14 11:38:26,827 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:7] new[4:4]
+2023-06-14 11:38:26,827 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:38:59,692 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:38:59,693 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 5
+2023-06-14 11:38:59,693 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-06-14 11:38:59,693 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:38:59,695 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:38:59,696 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[4:4] new[4:5]
+2023-06-14 11:38:59,696 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:39:01,272 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:39:01,272 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:39:01,273 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:39:01,273 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:39:01,275 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:39:01,275 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:5]
+2023-06-14 11:39:01,276 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:39:03,037 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:39:03,037 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 5
+2023-06-14 11:39:03,038 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:39:03,038 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:39:03,041 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 5 (to 4 in part parser)
+2023-06-14 11:39:03,041 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:5]
+2023-06-14 11:39:03,041 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:39:06,576 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:39:06,577 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 6
+2023-06-14 11:39:06,578 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:4] new[1:4]
+2023-06-14 11:39:06,578 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:39:06,580 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 6 (to 5 in part parser)
+2023-06-14 11:39:06,581 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[5:5] new[5:6]
+2023-06-14 11:39:06,581 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:39:36,464 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:39:36,465 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2023-06-14 11:39:36,465 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2023-06-14 11:39:36,466 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:2] new[1:2]
+2023-06-14 11:39:36,468 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 7 (to 6 in part parser)
+2023-06-14 11:39:36,469 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[insert] old[6:5] new[6:6]
+2023-06-14 11:39:36,469 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[6:6] new[7:7]
+2023-06-14 11:39:36,470 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:42:08,797 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:42:08,798 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 3
+2023-06-14 11:42:08,798 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:7] new[1:3]
+2023-06-14 11:42:08,800 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2023-06-14 11:42:08,800 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 11:42:20,325 [11460] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-14 11:42:20,325 [11460] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 3
+2023-06-14 11:42:20,326 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2023-06-14 11:42:20,326 [11460] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
+2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:3]
+2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
