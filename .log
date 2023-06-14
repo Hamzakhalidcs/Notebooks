@@ -868,3 +868,12 @@
 2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
 2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:3]
 2023-06-14 11:42:20,328 [11460] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-14 12:10:54,422 [20420] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-14 12:10:54,422 [20420] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-14 12:10:54,422 [20420] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-14 12:10:54,425 [20420] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-14 12:10:54,426 [20420] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-14 12:10:54,427 [20420] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-14 12:14:06,646 [20420] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version.
+  after removing the cwd from sys.path.
+
