@@ -877,3 +877,137 @@
 2023-06-14 12:14:06,646 [20420] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version.
   after removing the cwd from sys.path.
 
+2023-06-14 12:14:06,659 [20420] WARNING  py.warnings:110: [JupyterRequire] c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\ipykernel_launcher.py:4: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will*not* be treated as literal strings when regex=True.
+  after removing the cwd from sys.path.
+
+2023-06-15 11:52:53,983 [15436] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-15 11:52:53,983 [15436] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-15 11:52:53,984 [15436] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-15 11:52:53,986 [15436] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-15 11:52:53,988 [15436] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-15 11:52:53,989 [15436] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-15 11:52:54,781 [15436] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-15 11:52:54,781 [15436] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-15 11:52:54,782 [15436] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-15 11:52:54,788 [15436] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-15 11:52:54,789 [15436] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-15 11:52:54,790 [15436] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-15 11:55:28,029 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 11:55:28,721 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 11:55:34,891 [15436] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-06-15 11:55:34,995 [15436] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-06-15 11:55:35,325 [15436] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-15 11:55:35,326 [15436] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-15 11:55:35,327 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-15 11:55:35,328 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-15 11:55:35,329 [15436] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-15 11:55:48,313 [15436] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-15 11:55:48,314 [15436] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2023-06-15 11:55:48,314 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-15 11:55:48,315 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2023-06-15 11:55:48,315 [15436] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-15 11:58:35,457 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): example.com:443
+2023-06-15 11:58:36,472 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://example.com:443 "GET / HTTP/1.1" 200 648
+2023-06-15 11:58:52,424 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): example.com:443
+2023-06-15 11:58:53,342 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://example.com:443 "GET / HTTP/1.1" 200 648
+2023-06-15 12:00:40,531 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:00:41,024 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:01:06,364 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:01:06,850 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:01:11,516 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:01:12,006 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:01:50,677 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:01:51,175 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:02:13,204 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:02:13,690 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:05:09,956 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:05:11,318 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:10:02,315 [15436] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-15 12:10:02,316 [15436] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2023-06-15 12:10:02,316 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2023-06-15 12:10:02,318 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-06-15 12:10:02,318 [15436] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-15 12:10:07,742 [15436] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-15 12:10:07,742 [15436] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 3
+2023-06-15 12:10:07,742 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2023-06-15 12:10:07,743 [15436] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2023-06-15 12:10:07,743 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:3]
+2023-06-15 12:10:07,745 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
+2023-06-15 12:10:07,745 [15436] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-15 12:12:01,453 [15436] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-06-15 12:12:01,454 [15436] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 3
+2023-06-15 12:12:01,454 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2023-06-15 12:12:01,454 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 1 in part parser)
+2023-06-15 12:12:01,455 [15436] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[2:3] new[2:3]
+2023-06-15 12:12:01,457 [15436] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
+2023-06-15 12:12:01,458 [15436] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-06-15 12:12:14,219 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:12:15,441 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:12:15,446 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:12:16,369 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:12:16,706 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:12:17,335 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:12:17,839 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:12:18,349 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:12:56,603 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:13:01,259 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:13:01,265 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:13:02,541 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:13:02,586 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:13:03,077 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:13:03,282 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:13:03,812 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:13:38,151 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:13:39,316 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:13:39,326 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:13:40,571 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:13:40,655 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:13:41,193 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:13:41,449 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:13:41,937 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:14:43,622 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:14:44,889 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:14:44,895 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:14:46,138 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:14:46,182 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:14:46,693 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:14:47,355 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:14:47,841 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:14:48,219 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.ing.com.au:443
+2023-06-15 12:14:50,207 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.ing.com.au:443 "GET / HTTP/1.1" 200 50619
+2023-06-15 12:14:50,942 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.ing.com.au:443
+2023-06-15 12:14:53,011 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.ing.com.au:443 "GET / HTTP/1.1" 200 50619
+2023-06-15 12:14:53,676 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.agridigital.io:443
+2023-06-15 12:14:55,296 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.agridigital.io:443 "GET / HTTP/1.1" 200 32636
+2023-06-15 12:14:55,443 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.agridigital.io:443
+2023-06-15 12:14:57,171 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.agridigital.io:443 "GET / HTTP/1.1" 200 32636
+2023-06-15 12:14:57,440 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.telstra.com.au:443
+2023-06-15 12:14:57,828 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.telstra.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:14:58,237 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.telstra.com.au:443
+2023-06-15 12:14:58,741 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.telstra.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:15:05,673 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:15:07,258 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:15:07,264 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-15 12:15:08,174 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-15 12:15:08,552 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:15:09,054 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:15:09,424 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-15 12:15:09,927 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:15:10,865 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.ing.com.au:443
+2023-06-15 12:15:13,003 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.ing.com.au:443 "GET / HTTP/1.1" 200 50619
+2023-06-15 12:15:13,396 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.ing.com.au:443
+2023-06-15 12:15:15,334 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.ing.com.au:443 "GET / HTTP/1.1" 200 50619
+2023-06-15 12:15:15,964 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.agridigital.io:443
+2023-06-15 12:15:17,544 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.agridigital.io:443 "GET / HTTP/1.1" 200 32636
+2023-06-15 12:15:17,637 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.agridigital.io:443
+2023-06-15 12:15:19,184 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.agridigital.io:443 "GET / HTTP/1.1" 200 32636
+2023-06-15 12:15:19,747 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.telstra.com.au:443
+2023-06-15 12:15:19,983 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.telstra.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 12:15:20,120 [15436] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.telstra.com.au:443
+2023-06-15 12:15:20,675 [15436] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.telstra.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-15 15:09:08,118 [15436] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-15 15:09:08,118 [15436] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-15 15:09:08,119 [15436] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-15 15:09:08,125 [15436] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-15 15:09:08,126 [15436] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-15 15:09:08,127 [15436] DEBUG    root:97: [JupyterRequire] Registering comm targets.
