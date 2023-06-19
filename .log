@@ -1060,3 +1060,26 @@
 2023-06-15 17:34:10,437 [12452] INFO     root:247: [JupyterRequire] Initializing comms.
 2023-06-15 17:34:10,441 [12452] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-06-15 17:34:10,443 [12452] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-15 17:34:10,443 [12452] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-19 11:25:50,714 [18648] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-19 11:25:50,715 [18648] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-19 11:25:50,715 [18648] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-19 11:25:50,724 [18648] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-19 11:25:50,727 [18648] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-19 11:25:50,727 [18648] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-19 11:25:51,546 [18648] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-19 11:25:51,546 [18648] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-19 11:25:51,547 [18648] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-19 11:25:51,550 [18648] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-19 11:25:51,552 [18648] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-19 11:25:51,552 [18648] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-19 11:26:03,122 [18648] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.transroads.com:443
+2023-06-19 11:26:04,892 [18648] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.transroads.com:443 "GET / HTTP/1.1" 200 14398
+2023-06-19 11:26:04,936 [18648] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.lettscom.com.au:443
+2023-06-19 11:26:05,542 [18648] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.lettscom.com.au:443 "GET / HTTP/1.1" 200 None
+2023-06-19 11:26:07,533 [18648] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.ing.com.au:443
+2023-06-19 11:26:09,885 [18648] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.ing.com.au:443 "GET / HTTP/1.1" 200 50619
+2023-06-19 11:26:10,957 [18648] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.agridigital.io:443
+2023-06-19 11:26:12,556 [18648] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.agridigital.io:443 "GET / HTTP/1.1" 200 32636
+2023-06-19 11:26:12,797 [18648] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): www.telstra.com.au:443
+2023-06-19 11:26:14,058 [18648] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://www.telstra.com.au:443 "GET / HTTP/1.1" 200 None
