@@ -13,3 +13,47 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 1668096031266	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1668096043895	Marionette	INFO	Stopped listening on port 49925
 [Parent 13160, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1730135413970	geckodriver	INFO	Listening on 127.0.0.1:65036
+1730135417111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileom4LsJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730135418516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1730135418798	Marionette	INFO	Listening on port 65048
+1730135419237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730135434316	Marionette	INFO	Stopped listening on port 65048
+Dynamically enable window occlusion 1
+1730135530262	geckodriver	INFO	Listening on 127.0.0.1:65129
+1730135533338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofile3Bxc1h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730135534922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1730135535240	Marionette	INFO	Listening on port 65139
+1730135535633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730135545222	Marionette	INFO	Stopped listening on port 65139
+Dynamically enable window occlusion 1
+1730136315426	geckodriver	INFO	Listening on 127.0.0.1:65534
+1730136318466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileFCK3eW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730136319790	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1730136320007	Marionette	INFO	Listening on port 49164
+1730136320158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730136338539	Marionette	INFO	Stopped listening on port 49164
+Dynamically enable window occlusion 1
+1730208440928	geckodriver	INFO	Listening on 127.0.0.1:57131
+1730208443943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileis5lK6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730208445349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1730208445608	Marionette	INFO	Listening on port 57142
+1730208446020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730208468587	Marionette	INFO	Stopped listening on port 57142
+Dynamically enable window occlusion 1

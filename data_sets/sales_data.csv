@@ -1,0 +1,13 @@
+order_id,date,customer_id,product,quantity,price,region
+1,2023-01-15,C001,Widget A,5,10.00,North
+2,2023-01-17,C002,Widget B,3,15.00,South
+3,2023-02-20,C001,Widget A,2,10.00,North
+4,2023-03-05,C003,Widget C,4,20.00,East
+5,2023-03-10,C004,Widget B,1,15.00,West
+6,2023-04-12,C001,Widget C,5,20.00,North
+7,2023-05-22,C002,Widget A,3,10.00,South
+8,2023-06-18,C005,Widget B,6,15.00,East
+9,2023-07-25,C003,Widget A,4,10.00,East
+10,2023-08-30,C004,Widget C,2,20.00,West
+11,2023-09-10,C002,Widget B,7,15.00,South
+12,2023-10-12,C001,Widget A,1,10.00,North
