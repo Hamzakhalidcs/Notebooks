@@ -45768,3 +45768,47 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2025-11-03 22:01:29,195 [21300] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2025-11-03 22:01:29,199 [21300] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2025-11-03 22:01:29,199 [21300] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-11-23 18:13:49,244 [9184] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-11-23 18:13:49,269 [9184] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-11-23 18:13:49,270 [9184] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-11-23 18:13:49,281 [9184] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-11-23 18:13:49,282 [9184] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-11-23 18:13:49,282 [9184] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-11-23 18:13:49,927 [9184] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-11-23 18:13:49,928 [9184] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-11-23 18:13:49,928 [9184] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-11-23 18:13:49,934 [9184] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-11-23 18:13:49,936 [9184] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-11-23 18:13:49,936 [9184] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-11-23 18:14:30,303 [7376] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-11-23 18:14:30,304 [7376] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-11-23 18:14:30,304 [7376] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-11-23 18:14:30,308 [7376] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-11-23 18:14:30,309 [7376] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-11-23 18:14:30,310 [7376] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-11-23 18:26:23,646 [7376] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2025-11-23 18:26:23,747 [7376] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: c:\users\pc\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2025-11-23 18:26:27,195 [7376] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-11-23 18:26:27,195 [7376] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2025-11-23 18:26:27,196 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2025-11-23 18:26:27,197 [7376] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2025-11-23 18:26:27,197 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2025-11-23 18:26:27,198 [7376] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-11-23 18:26:30,955 [7376] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-11-23 18:26:30,956 [7376] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2025-11-23 18:26:30,956 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2025-11-23 18:26:30,957 [7376] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2025-11-23 18:26:30,958 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2025-11-23 18:26:30,958 [7376] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-11-23 18:26:50,853 [7376] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-11-23 18:26:50,854 [7376] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 3
+2025-11-23 18:26:50,854 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2025-11-23 18:26:50,855 [7376] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 2 in part parser)
+2025-11-23 18:26:50,856 [7376] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:3]
+2025-11-23 18:26:50,857 [7376] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 3 to 3 (to 2 in part parser)
+2025-11-23 18:26:50,858 [7376] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-11-23 18:36:06,816 [19180] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-11-23 18:36:06,816 [19180] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-11-23 18:36:06,817 [19180] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-11-23 18:36:06,820 [19180] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-11-23 18:36:06,821 [19180] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
