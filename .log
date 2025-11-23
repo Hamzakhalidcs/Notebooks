@@ -45896,3 +45896,4 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2025-11-23 21:02:43,546 [19180] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
 2025-11-23 21:02:43,547 [19180] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
 2025-11-23 21:02:43,548 [19180] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2025-11-23 21:02:43,548 [19180] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
