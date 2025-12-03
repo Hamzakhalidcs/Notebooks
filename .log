@@ -53393,3 +53393,80 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2025-12-01 07:53:12,349 [8016] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 14; new: 1
 2025-12-01 07:53:12,349 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:14] new[1:1]
 2025-12-01 07:53:12,350 [8016] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2025-12-01 07:53:12,350 [8016] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-12-01 08:01:35,755 [8016] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-12-01 08:01:35,756 [8016] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2025-12-01 08:01:35,756 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2025-12-01 08:01:35,757 [8016] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2025-12-01 08:01:35,757 [8016] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-12-01 08:01:52,010 [8016] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-12-01 08:01:52,011 [8016] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2025-12-01 08:01:52,011 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2025-12-01 08:01:52,013 [8016] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2025-12-01 08:01:52,013 [8016] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-12-01 08:02:20,770 [8016] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-12-01 08:02:20,772 [8016] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 3
+2025-12-01 08:02:20,772 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2025-12-01 08:02:20,777 [8016] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2025-12-01 08:02:20,777 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:3]
+2025-12-01 08:02:20,778 [8016] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-12-01 08:03:13,383 [8016] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2025-12-01 08:03:13,384 [8016] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 2
+2025-12-01 08:03:13,384 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2025-12-01 08:03:13,385 [8016] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2025-12-01 08:03:13,385 [8016] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:3] new[2:2]
+2025-12-01 08:03:13,386 [8016] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2025-12-01 09:24:23,249 [13808] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-01 09:24:23,251 [13808] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-01 09:24:23,251 [13808] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-01 09:24:23,261 [13808] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-01 09:24:23,262 [13808] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-01 09:24:23,263 [13808] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-01 13:47:01,370 [8260] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-01 13:47:01,373 [8260] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-01 13:47:01,373 [8260] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-01 13:47:01,388 [8260] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-01 13:47:01,390 [8260] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-01 13:47:01,391 [8260] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-01 14:21:17,676 [8016] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-01 14:21:17,680 [8016] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-01 14:21:17,680 [8016] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-01 14:21:17,698 [8016] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-01 14:21:17,701 [8016] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-01 14:21:17,702 [8016] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 19:47:25,147 [8016] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 19:47:25,150 [8016] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 19:47:25,150 [8016] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 19:47:25,162 [8016] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 19:47:25,164 [8016] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 19:47:25,166 [8016] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 20:46:10,912 [4636] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 20:46:10,913 [4636] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:10,913 [4636] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:10,920 [4636] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 20:46:10,921 [4636] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 20:46:10,922 [4636] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 20:46:10,959 [8860] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 20:46:10,960 [8860] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:10,961 [8860] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:10,966 [8860] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 20:46:10,968 [8860] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 20:46:10,968 [8860] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 20:46:12,348 [15092] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 20:46:12,348 [15092] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:12,349 [15092] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:12,352 [15092] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 20:46:12,353 [15092] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 20:46:12,354 [15092] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 20:46:12,379 [8860] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 20:46:12,380 [8860] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:12,380 [8860] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 20:46:12,385 [8860] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 20:46:12,386 [8860] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 20:46:12,387 [8860] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-12-03 20:50:28,255 [4636] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-12-03 20:50:28,256 [4636] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-12-03 20:50:28,256 [4636] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-12-03 20:50:28,261 [4636] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-12-03 20:50:28,262 [4636] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-12-03 20:50:28,263 [4636] DEBUG    root:97: [JupyterRequire] Registering comm targets.
