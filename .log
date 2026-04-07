@@ -55295,3 +55295,453 @@ Below is the traceback from this internal error.
 2026-04-04 22:39:31,912 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
 2026-04-04 22:39:32,385 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
 2026-04-04 22:39:35,823 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-04 22:39:36,256 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-05 02:01:47,009 [18440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-05 02:01:47,009 [18440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-05 02:01:47,009 [18440] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-05 02:01:47,009 [18440] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-05 02:01:47,009 [18440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-05 02:01:47,009 [18440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-07 20:06:17,764 [18440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-07 20:06:17,765 [18440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-07 20:06:17,765 [18440] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-07 20:06:17,781 [18440] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-07 20:06:17,781 [18440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-07 20:06:17,781 [18440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-07 20:06:19,438 [16172] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-07 20:06:19,438 [16172] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-07 20:06:19,454 [16172] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-07 20:06:19,758 [16172] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-07 20:06:19,774 [16172] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-07 20:06:19,774 [16172] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-07 20:09:30,692 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:09:30,708 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 6
+2026-04-07 20:09:30,710 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:6]
+2026-04-07 20:09:30,738 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 6 (to 5 in part parser)
+2026-04-07 20:09:30,740 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:09:32,130 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:09:32,130 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 6
+2026-04-07 20:09:32,130 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2026-04-07 20:09:32,130 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:5] new[1:3]
+2026-04-07 20:09:32,130 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 4 in part parser)
+2026-04-07 20:09:32,138 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 5 to 6 (to 5 in part parser)
+2026-04-07 20:09:32,140 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:6]
+2026-04-07 20:09:32,140 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:13:52,177 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:13:52,177 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 7
+2026-04-07 20:13:52,177 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2026-04-07 20:13:52,177 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:5] new[1:3]
+2026-04-07 20:13:52,177 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 4 in part parser)
+2026-04-07 20:13:52,190 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 5 to 7 (to 6 in part parser)
+2026-04-07 20:13:52,191 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:6] new[6:7]
+2026-04-07 20:13:52,191 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:13:55,364 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:13:55,364 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2026-04-07 20:13:55,364 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2026-04-07 20:13:55,364 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:6] new[1:6]
+2026-04-07 20:13:55,364 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[7:7] new[7:7]
+2026-04-07 20:13:55,370 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 7 to 7 (to 6 in part parser)
+2026-04-07 20:13:55,370 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:14:01,030 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:14:01,030 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 7
+2026-04-07 20:14:01,031 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2026-04-07 20:14:01,031 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:6] new[1:6]
+2026-04-07 20:14:01,032 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[7:7] new[7:7]
+2026-04-07 20:14:01,035 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 7 to 7 (to 6 in part parser)
+2026-04-07 20:14:01,036 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 7; new: 8
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:6] new[1:6]
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:6] new[1:6]
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[7:7] new[7:8]
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 7 to 8 (to 7 in part parser)
+2026-04-07 20:14:36,142 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:14:41,380 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:14:41,380 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 8; new: 8
+2026-04-07 20:14:41,396 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:7] new[1:7]
+2026-04-07 20:14:41,396 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:7] new[1:7]
+2026-04-07 20:14:41,396 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[8:8] new[8:8]
+2026-04-07 20:14:41,396 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 8 to 8 (to 7 in part parser)
+2026-04-07 20:14:41,396 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:15:02,540 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:15:02,541 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 8; new: 9
+2026-04-07 20:15:02,541 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:7] new[1:7]
+2026-04-07 20:15:02,542 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:7] new[1:7]
+2026-04-07 20:15:02,542 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[8:8] new[8:9]
+2026-04-07 20:15:02,546 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 8 to 9 (to 8 in part parser)
+2026-04-07 20:15:02,547 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:15:31,278 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:15:31,280 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 9; new: 11
+2026-04-07 20:15:31,280 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:5] new[1:5]
+2026-04-07 20:15:31,283 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:8] new[1:3]
+2026-04-07 20:15:31,283 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 4 in part parser)
+2026-04-07 20:15:31,291 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 5 to 11 (to 10 in part parser)
+2026-04-07 20:15:31,292 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[6:9] new[6:11]
+2026-04-07 20:15:31,292 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:15:37,750 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:15:37,750 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 11; new: 12
+2026-04-07 20:15:37,750 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:10] new[1:10]
+2026-04-07 20:15:37,766 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:10] new[1:3]
+2026-04-07 20:15:37,766 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 4 in part parser)
+2026-04-07 20:15:37,779 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 5 to 12 (to 11 in part parser)
+2026-04-07 20:15:37,780 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[11:11] new[11:12]
+2026-04-07 20:15:37,780 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:16:52,673 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:16:52,673 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 12; new: 19
+2026-04-07 20:16:52,673 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:11] new[1:11]
+2026-04-07 20:16:52,673 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:11] new[1:3]
+2026-04-07 20:16:52,673 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 4 to 4 (to 4 in part parser)
+2026-04-07 20:16:52,686 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 5 to 14 (to 15 in part parser)
+2026-04-07 20:16:52,687 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[12:12] new[12:19]
+2026-04-07 20:16:52,688 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 19 (to 18 in part parser)
+2026-04-07 20:16:52,689 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:16:55,016 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:16:55,032 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 19; new: 19
+2026-04-07 20:16:55,032 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:18] new[1:18]
+2026-04-07 20:16:55,032 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:18] new[1:14]
+2026-04-07 20:16:55,032 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:16:55,035 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 19 (to 18 in part parser)
+2026-04-07 20:16:55,036 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[19:19] new[19:19]
+2026-04-07 20:16:55,036 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:16:57,163 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:16:57,178 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 19; new: 19
+2026-04-07 20:16:57,178 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:18] new[1:18]
+2026-04-07 20:16:57,178 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:18] new[1:14]
+2026-04-07 20:16:57,178 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:16:57,182 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 19 (to 18 in part parser)
+2026-04-07 20:16:57,183 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[19:19] new[19:19]
+2026-04-07 20:16:57,183 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:16:58,376 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:16:58,376 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 19; new: 19
+2026-04-07 20:16:58,376 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:18] new[1:18]
+2026-04-07 20:16:58,376 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:18] new[1:14]
+2026-04-07 20:16:58,376 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:16:58,385 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 19 (to 18 in part parser)
+2026-04-07 20:16:58,386 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[19:19] new[19:19]
+2026-04-07 20:16:58,387 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:18:08,126 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:18:08,126 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 19; new: 18
+2026-04-07 20:18:08,126 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:17] new[1:17]
+2026-04-07 20:18:08,126 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:18] new[1:14]
+2026-04-07 20:18:08,126 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:18:08,138 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 18 (to 17 in part parser)
+2026-04-07 20:18:08,138 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[18:19] new[18:18]
+2026-04-07 20:18:08,138 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:18:19,314 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:18:19,314 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 18; new: 18
+2026-04-07 20:18:19,314 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:17] new[1:17]
+2026-04-07 20:18:19,314 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:17] new[1:14]
+2026-04-07 20:18:19,314 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:18:19,321 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 18 (to 17 in part parser)
+2026-04-07 20:18:19,322 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[18:18] new[18:18]
+2026-04-07 20:18:19,322 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 18; new: 19
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:17] new[1:17]
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:17] new[1:14]
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:18:44,814 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 19 (to 18 in part parser)
+2026-04-07 20:18:44,826 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[18:18] new[18:19]
+2026-04-07 20:18:44,826 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:19:22,574 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:19:22,574 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 19; new: 21
+2026-04-07 20:19:22,574 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:18] new[1:18]
+2026-04-07 20:19:22,574 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:18] new[1:14]
+2026-04-07 20:19:22,574 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:19:22,587 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 21 (to 20 in part parser)
+2026-04-07 20:19:22,588 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[19:19] new[19:21]
+2026-04-07 20:19:22,588 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:19:35,262 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:19:35,262 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 21; new: 1
+2026-04-07 20:19:35,262 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:21] new[1:1]
+2026-04-07 20:19:35,262 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:19:35,262 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:19:39,803 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:19:39,803 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:19:39,803 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:19:39,803 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:19:39,803 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:19:40,455 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:19:40,455 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:19:40,455 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:19:40,455 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:19:40,455 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:20:18,007 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:20:18,007 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2026-04-07 20:20:18,007 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2026-04-07 20:20:18,007 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2026-04-07 20:20:18,012 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2026-04-07 20:20:20,882 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2026-04-07 20:20:20,892 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:20:24,871 [18440] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:20:25,938 [18440] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /users/1 HTTP/1.1" 200 None
+2026-04-07 20:20:41,929 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:20:41,929 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 1
+2026-04-07 20:20:41,929 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:1]
+2026-04-07 20:20:41,929 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:20:41,929 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:20:58,381 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:20:58,381 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2026-04-07 20:20:58,381 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2026-04-07 20:20:58,381 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2026-04-07 20:20:58,381 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2026-04-07 20:21:03,725 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2026-04-07 20:21:11,058 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:21:27,424 [18440] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:21:42,428 [18440] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /uposts HTTP/1.1" 404 2
+2026-04-07 20:22:00,060 [18440] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:22:04,654 [18440] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:22:22,304 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:22:22,304 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 3
+2026-04-07 20:22:22,304 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:3]
+2026-04-07 20:22:22,304 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2026-04-07 20:22:22,304 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 4
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 4 (to 3 in part parser)
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:4]
+2026-04-07 20:22:36,955 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:23:08,580 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:23:08,595 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 4; new: 6
+2026-04-07 20:23:08,595 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2026-04-07 20:23:08,595 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 6 (to 5 in part parser)
+2026-04-07 20:23:08,602 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:4] new[3:6]
+2026-04-07 20:23:08,603 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:23:57,356 [18440] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:23:57,356 [18440] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 6; new: 1
+2026-04-07 20:23:57,356 [18440] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:6] new[1:1]
+2026-04-07 20:23:57,356 [18440] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:23:57,356 [18440] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:31:38,266 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:31:38,268 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 28
+2026-04-07 20:31:38,268 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:3] new[1:28]
+2026-04-07 20:31:38,331 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 28 (to 27 in part parser)
+2026-04-07 20:31:38,331 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:32:03,237 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:32:03,237 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 28; new: 29
+2026-04-07 20:32:03,237 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:27] new[1:27]
+2026-04-07 20:32:03,251 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:27] new[1:14]
+2026-04-07 20:32:03,256 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 15 to 15 (to 15 in part parser)
+2026-04-07 20:32:03,256 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 16 to 25 (to 27 in part parser)
+2026-04-07 20:32:03,256 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 26 to 29 (to 28 in part parser)
+2026-04-07 20:32:03,256 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[28:28] new[28:29]
+2026-04-07 20:32:03,256 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:32:20,082 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:32:20,082 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 29; new: 31
+2026-04-07 20:32:20,082 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:28] new[1:28]
+2026-04-07 20:32:20,082 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:28] new[1:25]
+2026-04-07 20:32:20,092 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 26 to 27 (to 27 in part parser)
+2026-04-07 20:32:20,094 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 28 to 31 (to 30 in part parser)
+2026-04-07 20:32:20,096 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[29:29] new[29:31]
+2026-04-07 20:32:20,096 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:32:39,936 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:32:39,936 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 31; new: 32
+2026-04-07 20:32:39,936 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:30] new[1:30]
+2026-04-07 20:32:39,936 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:30] new[1:29]
+2026-04-07 20:32:39,949 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 30 to 32 (to 31 in part parser)
+2026-04-07 20:32:39,949 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[31:31] new[31:32]
+2026-04-07 20:32:39,949 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:33:09,529 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:33:09,529 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 32; new: 36
+2026-04-07 20:33:09,544 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:31] new[1:31]
+2026-04-07 20:33:09,544 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:31] new[1:29]
+2026-04-07 20:33:09,555 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 30 to 34 (to 34 in part parser)
+2026-04-07 20:33:09,556 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[32:32] new[32:36]
+2026-04-07 20:33:09,561 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 35 to 36 (to 35 in part parser)
+2026-04-07 20:33:09,563 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:33:12,743 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:33:12,743 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 36; new: 36
+2026-04-07 20:33:12,743 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:35] new[1:35]
+2026-04-07 20:33:12,743 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:35] new[1:34]
+2026-04-07 20:33:12,749 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 35 to 36 (to 35 in part parser)
+2026-04-07 20:33:12,749 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[36:36] new[36:36]
+2026-04-07 20:33:12,750 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 36; new: 38
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:35] new[1:35]
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:35] new[1:34]
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 35 to 38 (to 37 in part parser)
+2026-04-07 20:33:29,842 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[36:36] new[36:38]
+2026-04-07 20:33:29,854 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:33:50,148 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:33:50,148 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 38; new: 1
+2026-04-07 20:33:50,164 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:38] new[1:1]
+2026-04-07 20:33:50,164 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:33:50,164 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:34:02,201 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:34:02,201 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 3
+2026-04-07 20:34:02,201 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:3]
+2026-04-07 20:34:02,217 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2026-04-07 20:34:02,218 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:34:05,102 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:34:05,102 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 3
+2026-04-07 20:34:05,102 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2026-04-07 20:34:05,102 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:34:05,118 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
+2026-04-07 20:34:05,118 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:3]
+2026-04-07 20:34:05,118 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:34:09,623 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:34:09,623 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 3
+2026-04-07 20:34:09,623 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:2] new[1:2]
+2026-04-07 20:34:09,639 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:34:09,639 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 3 (to 2 in part parser)
+2026-04-07 20:34:09,640 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[3:3] new[3:3]
+2026-04-07 20:34:09,640 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:34:26,314 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:34:26,737 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:34:50,346 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:34:50,346 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 3; new: 1
+2026-04-07 20:34:50,346 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:3] new[1:1]
+2026-04-07 20:34:50,346 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:34:50,346 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:36:21,874 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:36:21,889 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:36:21,889 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:36:21,889 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:36:21,897 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:36:23,619 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:36:23,635 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:36:23,635 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:36:23,635 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:36:23,642 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:36:27,946 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:36:27,946 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:36:27,946 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:36:27,946 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:36:27,946 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:36:50,237 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:36:50,614 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /users/5 HTTP/1.1" 200 None
+2026-04-07 20:37:11,147 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:37:11,149 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2026-04-07 20:37:11,149 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2026-04-07 20:37:11,151 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2026-04-07 20:37:11,152 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:37:12,364 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:37:12,712 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:37:27,561 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:37:27,561 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 2
+2026-04-07 20:37:27,561 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2026-04-07 20:37:27,561 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[1:1] new[1:1]
+2026-04-07 20:37:27,561 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[2:2] new[2:2]
+2026-04-07 20:37:27,570 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
+2026-04-07 20:37:27,571 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:37:47,661 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:37:48,759 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:37:56,828 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:37:57,244 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:38:44,113 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:38:44,113 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 41
+2026-04-07 20:38:44,129 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:41]
+2026-04-07 20:38:44,145 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 41 (to 40 in part parser)
+2026-04-07 20:38:44,145 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:39:02,072 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:39:02,072 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 41; new: 42
+2026-04-07 20:39:02,072 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:40] new[1:40]
+2026-04-07 20:39:02,072 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:40] new[1:38]
+2026-04-07 20:39:02,078 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 39 to 40 (to 40 in part parser)
+2026-04-07 20:39:02,078 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[41:41] new[41:42]
+2026-04-07 20:39:02,079 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 41 to 42 (to 41 in part parser)
+2026-04-07 20:39:02,080 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:54:37,925 [18440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-07 20:54:37,925 [18440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-07 20:54:37,925 [18440] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-07 20:54:37,930 [18440] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-07 20:54:37,930 [18440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-07 20:54:37,930 [18440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-07 20:54:38,622 [16172] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-07 20:54:38,622 [16172] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-07 20:54:38,622 [16172] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-07 20:54:38,637 [16172] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-07 20:54:38,638 [16172] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-07 20:54:38,638 [16172] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-07 20:55:31,941 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:55:31,941 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 42; new: 42
+2026-04-07 20:55:31,941 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:28] new[1:28]
+2026-04-07 20:55:31,941 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:41] new[1:25]
+2026-04-07 20:55:31,952 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 26 to 27 (to 27 in part parser)
+2026-04-07 20:55:31,954 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 28 to 38 (to 40 in part parser)
+2026-04-07 20:55:31,955 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[29:29] new[29:29]
+2026-04-07 20:55:31,955 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[30:40] new[30:40]
+2026-04-07 20:55:31,955 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 39 to 42 (to 41 in part parser)
+2026-04-07 20:55:31,955 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[41:42] new[41:42]
+2026-04-07 20:55:31,955 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:55:33,728 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:55:33,728 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 42; new: 42
+2026-04-07 20:55:33,728 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:41] new[1:41]
+2026-04-07 20:55:33,728 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:41] new[1:38]
+2026-04-07 20:55:33,728 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 39 to 40 (to 40 in part parser)
+2026-04-07 20:55:33,743 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 41 to 42 (to 41 in part parser)
+2026-04-07 20:55:33,743 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[42:42] new[42:42]
+2026-04-07 20:55:33,744 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:56:38,165 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:56:38,165 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 42; new: 48
+2026-04-07 20:56:38,165 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:30] new[1:30]
+2026-04-07 20:56:38,165 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:41] new[1:29]
+2026-04-07 20:56:38,177 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 30 to 34 (to 34 in part parser)
+2026-04-07 20:56:38,177 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[31:31] new[31:31]
+2026-04-07 20:56:38,178 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[32:41] new[32:41]
+2026-04-07 20:56:38,178 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[35:38] new[35:38]
+2026-04-07 20:56:38,180 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 39 to 40 (to 40 in part parser)
+2026-04-07 20:56:38,180 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 41 to 48 (to 47 in part parser)
+2026-04-07 20:56:38,180 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[42:42] new[42:48]
+2026-04-07 20:56:38,180 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:56:41,290 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:56:41,290 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 48; new: 48
+2026-04-07 20:56:41,290 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:47] new[1:47]
+2026-04-07 20:56:41,290 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:47] new[1:42]
+2026-04-07 20:56:41,293 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 43 to 43 (to 43 in part parser)
+2026-04-07 20:56:41,294 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 44 to 44 (to 45 in part parser)
+2026-04-07 20:56:41,294 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[46:46] new[45:46]
+2026-04-07 20:56:41,296 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 47 to 48 (to 47 in part parser)
+2026-04-07 20:56:41,297 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[48:48] new[48:48]
+2026-04-07 20:56:41,297 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:57:02,233 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:57:02,233 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 48; new: 50
+2026-04-07 20:57:02,233 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:47] new[1:47]
+2026-04-07 20:57:02,248 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:47] new[1:42]
+2026-04-07 20:57:02,252 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 43 to 43 (to 43 in part parser)
+2026-04-07 20:57:02,253 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 44 to 44 (to 45 in part parser)
+2026-04-07 20:57:02,254 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[46:46] new[45:46]
+2026-04-07 20:57:02,256 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 47 to 50 (to 49 in part parser)
+2026-04-07 20:57:02,256 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[48:48] new[48:50]
+2026-04-07 20:57:02,256 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:57:40,040 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:57:40,056 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 50; new: 1
+2026-04-07 20:57:40,056 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:50] new[1:1]
+2026-04-07 20:57:40,056 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:57:40,064 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:57:41,848 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:57:41,848 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-07 20:57:41,848 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-07 20:57:41,848 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-07 20:57:41,858 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:57:54,436 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-07 20:57:54,436 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 2
+2026-04-07 20:57:54,436 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:2]
+2026-04-07 20:57:54,436 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2026-04-07 20:57:54,446 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-07 20:58:04,290 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:58:05,239 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:58:33,219 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:58:34,166 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:58:46,483 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 20:58:48,704 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-07 20:59:02,464 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
