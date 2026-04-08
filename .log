@@ -56151,3 +56151,68 @@ Below is the traceback from this internal error.
 2026-04-07 21:42:04,699 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 2 to 2 (to 1 in part parser)
 2026-04-07 21:42:04,700 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
 2026-04-07 21:42:31,681 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-07 21:42:32,651 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2026-04-08 00:43:49,184 [18440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-08 00:43:49,184 [18440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-08 00:43:49,184 [18440] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-08 00:43:49,199 [18440] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-08 00:43:49,199 [18440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-08 00:43:49,199 [18440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-08 20:57:44,868 [18440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-08 20:57:44,868 [18440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-08 20:57:44,868 [18440] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-08 20:57:44,884 [18440] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-08 20:57:44,899 [18440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-08 20:57:44,899 [18440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-08 20:58:56,868 [16172] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2026-04-08 20:58:56,884 [16172] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2026-04-08 20:58:56,884 [16172] INFO     root:247: [JupyterRequire] Initializing comms.
+2026-04-08 20:58:56,930 [16172] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2026-04-08 20:58:56,930 [16172] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2026-04-08 20:58:56,930 [16172] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2026-04-08 21:18:03,779 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:18:03,792 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 71
+2026-04-08 21:18:03,793 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:2] new[1:71]
+2026-04-08 21:18:03,858 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 71 (to 70 in part parser)
+2026-04-08 21:18:03,858 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:18:05,966 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:18:05,966 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 71; new: 71
+2026-04-08 21:18:05,966 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:70] new[1:70]
+2026-04-08 21:18:05,966 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:70] new[1:67]
+2026-04-08 21:18:05,981 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 68 to 69 (to 69 in part parser)
+2026-04-08 21:18:05,983 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 70 to 71 (to 70 in part parser)
+2026-04-08 21:18:05,984 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[71:71] new[71:71]
+2026-04-08 21:18:05,984 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:19:31,761 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:19:31,761 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 71; new: 75
+2026-04-08 21:19:31,761 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:70] new[1:70]
+2026-04-08 21:19:31,761 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:70] new[1:67]
+2026-04-08 21:19:31,761 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 68 to 69 (to 69 in part parser)
+2026-04-08 21:19:31,772 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 70 to 75 (to 74 in part parser)
+2026-04-08 21:19:31,772 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[71:71] new[71:75]
+2026-04-08 21:19:31,772 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:19:45,556 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:19:45,556 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 75; new: 76
+2026-04-08 21:19:45,556 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[equal] old[1:74] new[1:74]
+2026-04-08 21:19:45,558 [16172] DEBUG    parso.python.diff:380: [JupyterRequire] copy old[2:74] new[1:71]
+2026-04-08 21:19:45,561 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 72 to 75 (to 75 in part parser)
+2026-04-08 21:19:45,561 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[75:75] new[75:76]
+2026-04-08 21:19:45,562 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 76 to 76 (to 75 in part parser)
+2026-04-08 21:19:45,562 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:21:35,255 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:21:35,255 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 76; new: 1
+2026-04-08 21:21:35,255 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:76] new[1:1]
+2026-04-08 21:21:35,255 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-08 21:21:35,267 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:21:38,176 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:21:38,176 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 1
+2026-04-08 21:21:38,176 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:1]
+2026-04-08 21:21:38,192 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2026-04-08 21:21:38,192 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:21:58,035 [16172] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2026-04-08 21:21:58,035 [16172] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 1; new: 3
+2026-04-08 21:21:58,035 [16172] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:1] new[1:3]
+2026-04-08 21:21:58,035 [16172] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 3 (to 2 in part parser)
+2026-04-08 21:21:58,035 [16172] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2026-04-08 21:22:47,200 [16172] DEBUG    urllib3.connectionpool:813: [JupyterRequire] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2026-04-08 21:22:47,660 [16172] DEBUG    urllib3.connectionpool:393: [JupyterRequire] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
